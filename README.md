@@ -25,3 +25,4 @@ TimeZoneInfo Tehran = TimeZoneInfo.CreateCustomTimeZone(standardName, offset, di
 ```
 TimeZoneInfo.ConvertTime(DateTime.Now, TimeZoneInfo.Local, Tehran)
 ```
+## Pleas Read LICENSE
